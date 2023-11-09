@@ -1,0 +1,21 @@
+
+.container{
+    height:60px;
+    background-color:black;
+    padding:50px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color:white;
+   
+}
+
+button{
+    background:none;
+    color:white;
+    border:none;
+}
+
+.brand{
+    font-size:24px
+}
